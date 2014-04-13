@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<markers> 
+
+<marker lat="43.82589" lng="-79.10040" label="Marker One">
+<tab>
+<label>One</label>
+<contents><![CDATA[Tab 1 contents<br />(Marker One)]]></contents>
+</tab>
+<tab>
+<label>Two</label>
+<contents><![CDATA[Tab 2 contents<br />(Marker One)]]></contents>
+</tab>
+<tab>
+<label>Three</label>
+<contents><![CDATA[Tab 3 contents<br />(Marker One)]]></contents>
+</tab>
+</marker>
+
+<marker lat="43.72589" lng="-79.8" label="Marker Two">
+<tab>
+<label>One</label>
+<contents><![CDATA[Tab 1 contents<br />(Marker Two)]]></contents>
+</tab>
+<tab>
+<label>Two</label>
+<contents><![CDATA[Tab 2 contents<br />(Marker Two)]]></contents>
+</tab>
+<tab>
+<label>Three</label>
+<contents><![CDATA[Tab 3 contents<br />(Marker Two)]]></contents>
+</tab>
+<tab>
+<label>Four</label>
+<contents><![CDATA[Tab 4 contents<br />(Marker Two)]]></contents>
+</tab>
+</marker>
+      
+<marker lat="43.65654" lng="-79.90138" label="Marker Three">
+<tab>
+<label>Now</label>
+<contents><![CDATA[is the time for all good men<br />to come to the aid of the party]]></contents>
+</tab>
+<tab>
+<label>Many</label>
+<contents><![CDATA[a dangerous temptation comes to us<br/ >in gay, fine colours]]></contents>
+</tab>
+</marker>
+
+<marker lat="43.8" lng="-79.3" label="Marker Four">
+<tab>
+<label>Nothing</label>
+<contents>This marker has no tabs</contents>
+</tab>
+</marker>
+
+</markers> 
